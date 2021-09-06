@@ -1,0 +1,458 @@
+.D0-main-container{
+    display: grid;
+}
+
+.D0-empty-dev{
+    width: 200px;
+    height: 80px;
+    margin-bottom: 24px;
+}
+
+.D0-feed{
+    max-width: 1428px;
+    margin: 0 auto;
+    height: 4848px;
+    /* background-color: rgb(195, 103, 241); */
+    display: grid;
+    grid-template-areas:
+    "sideMenu sideMenu sideMenu pgContent pgContent pgContent pgContent pgContent pgContent pgContent pgContent pgContent"
+    "sideMenu sideMenu sideMenu pgContent pgContent pgContent pgContent pgContent pgContent pgContent pgContent pgContent";
+}
+
+.D0-nav-bar{
+    width: 100%;
+    height: 80px;
+    padding: 8px 56px 8px 56px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    position: fixed;
+    top: 0px;
+    grid-area: navBar;
+    z-index: 2;
+}
+
+.D0-side-menu{
+    height: 100%;
+    margin-top: 24px;
+    margin-right: 12px;
+    display: grid;
+    justify-content: flex-end;
+    align-content: flex-start;
+    grid-area: sideMenu;
+    /* background-color: rgb(110, 231, 231); */
+}
+
+.D0-content{
+    height: 100%;
+    width: 800px;
+    margin-top: 24px;
+    margin-left: 12px;
+    /* display: grid; */
+    grid-area: pgContent;
+    /* background-color: rgb(224, 143, 224); */
+}
+
+.D0-search-button{
+    width: 476px;
+    height: 48px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.D0-list-button{
+    width: 240px;
+    height: 40px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.D0-notf-botton{
+    width: 56px;
+    height: 56px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.D0-profile-button{
+    width: 100px;
+    height: 64px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.D0-profile-button > div {
+    width: 64px;
+    height: 64px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.D0-body{
+    display: grid;
+    justify-content: start;
+    padding: 100px;
+}
+
+.D0-rent-card{
+    width: 339px;
+    height: 333px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.D0-rent-card > p{
+    margin: 0px 0px 6px 0px;
+}
+
+.D0-rating-box{
+    width: 104px;
+    height: 32px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    bottom: -16px;
+    z-index: 1;
+}
+
+.D0-sm-buttons{
+    width: 338px;
+    height: 72px;
+    margin: 22px 0px 24px 0px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.D0-sm-buttons > .b1, .b2{
+    width: 40px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.D0-message{
+    width: 174px;
+    height: 40px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.D0-about-sec > button{
+    display: block;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    margin: 8px 0px 8px 0px;
+}
+
+.D0-about-button{
+    width: 338px;
+    height: 33px;
+    padding-left: 13px;
+}
+
+.D0-all-con{
+    margin: 24px 30px 24px 23px;
+    display: flex;
+    flex-direction: column;
+}
+
+.D0-all-con > div{
+    align-self: flex-start;
+}
+
+.D0-all-con > div > p{
+    margin: 0px;
+}
+
+.D0-hr{
+    width: 24px;
+    height: 2px;
+    margin: 16px 0px 8px 0px; 
+}
+
+.D0-about-info{
+    padding-left: 20px;
+    margin-top: 16px;
+}
+
+.D0-ov-info > div{
+    display: flex;
+    direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    margin: 16px 0px 16px 23px;
+}
+
+.D0-bl-elem{
+    display: inline-block;
+    margin: 7px 23px 7px 23px;
+}
+
+.D0-bl-elem > p{
+    margin: 0px;
+    text-align: left;
+}
+
+.D0-ser-button{
+    margin-top: 24px;
+    margin-bottom: 32px;
+}
+
+.D0-ser-button > button{
+    /* width: 55px; */
+    height: 24px;
+}
+
+.D0-smedia{
+    width: 144px;
+    height: 32px;
+    display: flex;
+    direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.D0-smedia > button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.D0-star-sec{
+    width: 152px;
+    height: 24px;
+    display: flex;
+    direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.D0-star-sec > i{
+    margin: 0px 4px 0px 4px;
+}
+
+.D0-tot-rate{
+    width: 251px;
+    height: 121px;
+    display: flex;
+    direction: row;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-items: center;
+    margin-right: 0px;
+}
+
+.D0-tot-rate > p{
+    margin: 0px 15px 0px 0px;
+}
+
+.D0-tot-rate > .D0-excellent > p{
+    margin: 0px;
+}
+
+.D0-rate-sec{
+    width: 656px;
+    height: 121px;
+    display: flex;
+    direction: row;
+    margin: 16px 0px 16px 23px;
+}
+
+.D0-rate-answers{
+    height: 112px;
+    display: grid;
+    direction: column;
+    margin-left: 40px;
+}
+
+.D0-rate-answers > div{
+    display: flex;
+    direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    margin: 0px 0px 8px 0px;
+}
+
+.D0-rate-answers > div > div{
+    width: 300px;
+    height: 16px;
+    margin: 0px 8px 0px 8px;
+}
+
+.D0-rate-answers > div > p{
+    margin: 0px;
+}
+
+.D0-rate-answers > div > i{
+    margin-left: 4px
+}
+
+.D0-br{
+    width: 969px;
+    height: 2px;
+    margin: 31px 0px 31px 47px; 
+}
+
+.D0-prop-upbar{
+    width: 1065px;
+    height: 48px;
+}
+
+.D0-b-apartment{
+    width: 162px;
+    height: 48px; 
+}
+
+.D0-b-more{
+    width: 281px;
+    height: 48px;
+    /* justify-self: flex-end;
+    align-self: flex-end; */
+    margin-left: auto;
+}
+
+.D0-cards{
+    width: 339px;
+    height: 474px;
+}
+
+.D0-heart{
+    /* margin: 18px 16px 0px auto; */
+    /* align-self: flex-start; */
+    /* order: 2; */
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    width: 32px;
+    height: 32px;
+}
+
+.D0-left-arrow{
+    width: 32px;
+    height: 32px;
+    position: absolute;
+    top: calc(50% - 16px);
+    left: 10px;
+
+}
+
+.D0-right-arrow{
+    width: 32px;
+    height: 32px;
+    position: absolute;
+    top: calc(50% - 16px);
+    right: 10px;
+}
+
+.D0-h-im {
+    position: relative;
+}
+
+.D0-h-im > .div1 > button{
+    width: 28px;
+    height: 28px;
+    position: absolute;
+    top: calc(50% - 14px);
+    right: 10px;
+}
+
+.D0-h-im > .div2 > .b1{
+    width: 28px;
+    height: 28px;
+    position: absolute;
+    top: calc(50% - 14px);
+    left: 10px;
+}
+
+.D0-h-im > .div2 > .b2{
+    width: 28px;
+    height: 28px;
+    position: absolute;
+    top: calc(50% - 14px);
+    right: 10px;
+}
+
+.D0-h-im > .div1 > p{
+    display: inline-block;
+    position: absolute;
+    top: calc(50% - 4px);
+    right: calc(50% - 46px);
+    margin: 0px;
+}
+
+.D0-h-im > .div1 > i{
+    position: absolute;
+    top: calc(50% - 15px);
+    left: 10px;
+}
+
+.D0-h-im > .div1{
+    width: 195px;
+    height: 40px;
+    position: absolute;
+    bottom: -27px;
+    left: 23px;
+}
+
+.D0-h-im > .div2{
+    width: 80px;
+    height: 40px;
+    position: absolute;
+    bottom: -27px;
+    right: 22px;
+}
+
+.D0-info-div-apartment{
+    margin: 36px 20px -5px 20px;
+}
+
+.D0-info-div-apartment > .p2{
+    margin: 0px;
+}
+
+.D0-info-div-apartment > p{
+    margin: 0px;
+}
+
+.D0-info-div-apartment > i{
+    margin-left: 4px;
+}
+
+.D0-div-buttons{
+    margin: 8px 20px 0px 20px;
+}
+
+.D0-div-buttons > button{
+    padding: 5px 10px 5px 10px;
+}
+
+.D0-purple-line{
+    width: 339px;
+    height: 54px;
+    margin-top: 8px;
+}
+
+.D0-purple-line > div > p{
+    margin: 0px;
+}

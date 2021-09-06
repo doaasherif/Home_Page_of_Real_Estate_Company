@@ -1,0 +1,37 @@
+.imD0-profile{
+    background-image: url('https://img.freepik.com/free-photo/handsome-confident-smiling-man-with-hands-crossed-chest_176420-18743.jpg?size=626&ext=jpg');
+    width: 56px;
+    height: 56px;
+    background-position: top;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.imD0-rent{
+    background-image: url('https://img.freepik.com/free-vector/real-estate-logo-concept-with-initial-o-element_139869-322.jpg?size=338&ext=jpg');
+    width: 192px;
+    height: 192px;
+    background-position: top;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-bottom: 35px;
+    display: flex;
+    justify-content: center;
+    position: relative;
+}
+
+.imD0-living-room{
+    background-image: url('https://cdna.artstation.com/p/assets/images/images/002/414/764/large/rie-grindall-02-night.jpg?1461448743');
+    width: 100%;
+    height: 360px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: inline-block;
+}
+
+.imD0-home-img{
+    background-image: url('https://assets.themortgagereports.com/wp-content/uploads/2019/03/Modern-Home-Style-The-Mortgage-Reports-On-Tour.jpg');
+    width: 331px;
+    height: 232px;
+}

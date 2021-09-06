@@ -1,0 +1,348 @@
+.iD0-deal360{
+    background-image: url('https://image.flaticon.com/icons/png/128/5510/5510739.png');
+    width: 162px;
+    height: 56px;
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-top: 5px;
+}
+
+.iD0-down-arrow{
+    background-image: url('assets/Mask\ Group\ 300.svg');
+    width: 12px;
+    height: 12px;
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    /* margin-top: 5px;
+    margin-left: 5px; */
+    padding: 8px;
+    margin: 0px 8px 0px 8px;
+}
+
+.iD0-red-dot{
+    background-image: url('assets/Ellipse\ 119.svg');
+    width: 6px;
+    height: 6px;
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    padding: 1px;
+    position: absolute;
+    right: 3px;
+}
+
+.iD0-search{
+    background-image: url('assets/Mask\ Group\ 302.svg');
+    width: 24px;
+    height: 24px;
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-left: 13px;
+    margin-right: 6px;
+}
+
+.iD0-plus{
+    background-image: url('assets/Mask\ Group\ 526.svg');
+    width: 16px;
+    height: 16px;
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-right: 6px;
+}
+
+.iD0-notification{
+    background-image: url('assets/Mask\ Group\ 337.svg');
+    width: 24px;
+    height: 24px;
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: flex-end;
+    align-content: flex-start;
+    position: relative;
+}
+
+.iD0-star{
+    background-image: url('assets/Polygon\ 33.svg');
+    width: 16px;
+    height: 16px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-left: 5px;
+}
+
+.iD0-message{
+    background-image: url('assets/Mask\ Group\ 316.svg');
+    width: 16px;
+    height: 16px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.iD0-earth{
+    background-image: url('assets/Mask\ Group\ 234.svg');
+    width: 16px;
+    height: 16px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.iD0-phone{
+    background-image: url('assets/Mask\ Group\ 317.svg');
+    width: 16px;
+    height: 16px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.iD0-about{
+    background-image: url('assets/Mask\ Group\ 554.svg');
+    width: 16px;
+    height: 16px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.iD0-agents{
+    background-image: url('assets/Mask\ Group\ 550.svg');
+    width: 16px;
+    height: 16px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.iD0-properties{
+    background-image: url('assets/Mask\ Group\ 553.svg');
+    width: 16px;
+    height: 16px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.iD0-reviews{
+    background-image: url('assets/Mask\ Group\ 555.svg');
+    width: 16px;
+    height: 16px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.iD0-clock{
+    background-image: url('assets/Mask\ Group\ 569.png');
+    width: 16px;
+    height: 16px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.iD0-agents-color{
+    background-image: url('assets/Mask\ Group\ 485.png');
+    width: 16px;
+    height: 16px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.iD0-properties-color{
+    background-image: url('assets/Mask\ Group\ 484.png');
+    width: 16px;
+    height: 16px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.iD0-location{
+    background-image: url('assets/Mask\ Group\ 390.png');
+    width: 16px;
+    height: 16px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.iD0-earth-gray{
+    background-image: url('assets/Mask\ Group\ 537.png');
+    width: 16px;
+    height: 16px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.iD0-phone-gray{
+    background-image: url('assets/Mask\ Group\ 538.png');
+    width: 16px;
+    height: 16px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.iD0-fb{
+    background-image: url('assets/Mask\ Group\ 535.png');
+    width: 16px;
+    height: 16px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.iD0-insta{
+    background-image: url('assets/Mask\ Group\ 534.png');
+    width: 16px;
+    height: 16px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.iD0-utube{
+    background-image: url('assets/Mask\ Group\ 533.png');
+    width: 16px;
+    height: 16px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.iD0-twitter{
+    background-image: url('assets/Mask\ Group\ 532.png');
+    width: 16px;
+    height: 16px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.iD0-star-24{
+    background-image: url('assets/Polygon\ 33.svg');
+    width: 24px;
+    height: 24px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.iD0-hf-gold-star{
+    background-image: url('assets/Polygon\ 39.png');
+    width: 24px;
+    height: 24px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.iD0-gray-star{
+    background-image: url('assets/Polygon\ 33gray.svg');
+    width: 24px;
+    height: 24px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.iD0-gray-star-8{
+    background-image: url('assets/Polygon\ 33gray.svg');
+    width: 8px;
+    height: 8px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.iD0-filled-down-arrow{
+    background-image: url('assets/Polygon\ 43.svg');
+    width: 8px;
+    height: 6px;
+}
+
+.iD0-heart{
+    background-image: url('assets/Mask\ Group\ 368.svg');
+    width: 16px;
+    height: 16px;
+}
+
+.iD0-left-arrow{
+    background-image: url('assets/Mask\ Group\ 369left.svg');
+    width: 16px;
+    height: 16px;
+}
+
+.iD0-right-arrow{
+    background-image: url('assets/Mask\ Group\ 369.svg');
+    width: 16px;
+    height: 16px;
+}
+
+.iD0-starbucks{
+    background-image: url('assets/khadeeja-yasser-3U9L9Chc3is-unsplash.svg');
+    width: 30px;
+    height: 30px;
+}
+
+.iD0-share{
+    background-image: url('assets/icons8_share.svg');
+    width: 12px;
+    height: 12px;
+}
+
+.iD0-files{
+    background-image: url('assets/icons8_compare.svg');
+    width: 12px;
+    height: 12px;
+}
+
+.iD0-location{
+    background-image: url('assets/Path\ 140.svg');
+    width: 16px;
+    height: 16px;
+}
+
+.iD0-bathroom{
+    background-image: url('assets/Mask\ Group\ 280.svg');
+    width: 16px;
+    height: 16px;
+}
+
+.iD0-bedroom{
+    background-image: url('assets/Mask\ Group\ 274.svg');
+    width: 16px;
+    height: 16px;
+}
+
+.iD0-space{
+    background-image: url('assets/Mask\ Group\ 279.svg');
+    width: 16px;
+    height: 16px;
+}
+
+.iD0-price-tag{
+    background-image: url('assets/Path\ 139.svg');
+    width: 16px;
+    height: 16px;
+}
+
+
+.iD0-phone-12{
+    background-image: url('assets/icons8_call.svg');
+    width: 12px;
+    height: 12px;
+}
+
+

@@ -1,0 +1,58 @@
+/* family */
+.fD0-font-roboto{
+    font-family: 'Roboto', sans-serif;
+}
+
+.fD0-font-lato{
+    font-family: 'Lato', sans-serif;
+}
+
+.fD0-font-poppins{
+    font-family: 'Poppins', sans-serif;
+}
+
+
+
+/* size */
+.fD0-font-size-64{
+    font-size: 64px;
+}
+
+.fD0-font-size-32{
+    font-size: 32px;
+}
+
+.fD0-font-size-20{
+    font-size: 20px;
+}
+
+.fD0-font-size-16{
+    font-size: 16px;
+}
+
+.fD0-font-size-14{
+    font-size: 14px;
+}
+
+.fD0-font-size-12{
+    font-size: 12px;
+}
+
+.fD0-font-size-10{
+    font-size: 10px;
+}
+
+.fD0-font-size-9{
+    font-size: 9px;
+}
+
+
+
+/* weight */
+.fD0-font-bold{
+    font-weight: bold;
+}
+
+.fD0-font-lighter{
+    font-weight: lighter;
+}

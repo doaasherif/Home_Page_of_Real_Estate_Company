@@ -11,7 +11,7 @@
 .D0-feed{
     max-width: 1428px;
     margin: 0 auto;
-    height: 4848px;
+    /* height: 4848px; */
     /* background-color: rgb(195, 103, 241); */
     display: grid;
     grid-template-areas:
@@ -45,7 +45,7 @@
 }
 
 .D0-content{
-    height: 100%;
+    /* height: 100; */
     width: 800px;
     margin-top: 24px;
     margin-left: 12px;
@@ -172,7 +172,7 @@
 }
 
 .D0-all-con{
-    margin: 24px 30px 24px 23px;
+    margin: 24px 0px 24px 23px;
     display: flex;
     flex-direction: column;
 }
@@ -455,4 +455,100 @@
 
 .D0-purple-line > div > p{
     margin: 0px;
+}
+
+.D0-load-prop{
+    width: 281px;
+    height: 48px;
+    /* margin: auto; */
+    /* justify-content: space-evenly; */
+    padding-left: 54px;
+}
+
+.D0-load-prop > button {
+    width: 56px;
+    height: 100%;
+    margin-left: auto;
+}
+
+.D0-agent-card{
+    width: 339px;
+    height: 257px;
+    position: relative;
+    margin-top: 108px;
+}
+
+.D0-agent-card > p {
+    margin: 0px;
+}
+
+.D0-profile-agent{
+    width: 168px;
+    height: 168px;
+    position: absolute;
+    top: -84px;
+    right: calc(50% - 84px)
+}
+
+.D0-profile-agent > div {
+    width: 160px;
+    height: 160px;
+}
+
+.D0-review-card{
+    width: 323px;
+    height: 181px;
+    position: relative;
+    margin-top: 32px;
+}
+
+.D0-review-card > p{
+    margin: 0px 22px 31px 22px;
+}
+
+.D0-profile-review{
+    position: absolute;
+    top: -40px;
+    left: -40px;
+}
+
+.D0-div-p{
+    margin: 24px 26px 24px 72px;
+}
+
+.D0-div-p > p{
+    margin: 0;
+}
+
+.D0-subscribe{
+    width: 100%;
+    height: 180px;
+    background-image: url("https://cdn57.androidauthority.net/wp-content/uploads/2015/11/00-best-backgrounds-and-wallpaper-apps-for-android.jpg");
+    margin: 48px 0px 26px 0px
+}
+
+.D0-subscribe > div{
+    background-color: rgba(70, 73, 76, 0.726);
+    width: 100%;
+    height: 100%;
+}
+
+.D0-subscribe > div > div > p{
+    margin: 0px;
+}
+
+.D0-enter-email{
+    width: 702px;
+    height: 48px;
+}
+
+.D0-enter-email > i{
+    margin: 0px 8px 0px 28px;
+}
+
+.D0-enter-email > button{
+    margin-left: auto;
+    width: 128px;
+    height: 40px;
+    margin-right: 4px;
 }

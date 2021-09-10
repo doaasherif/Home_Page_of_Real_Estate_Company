@@ -17,6 +17,10 @@
     border: none;
 }
 
+.uD0-br-purple-white{
+    border: #EFF8FE;
+}
+
 .uD0-radius-cir{
     border-radius: 50%;
 }
@@ -65,6 +69,10 @@
     align-items: center;
 }
 
+.uD0-al-start{
+    align-items: flex-start;
+}
+
 .uD0-al-end{
     align-items: flex-end;
 }
@@ -87,12 +95,13 @@
     align-items: center;
 }
 
+.uD0-flex{
+    display: flex;
+}
+
 .uD0-flex-column{
     display: flex;
     flex-direction: column;
-    /* flex-wrap: nowrap;
-    align-items: flex-start;
-    justify-content: center; */
 }
 
 .uD0-wrap{
@@ -128,6 +137,10 @@
 
 .uD0-flex-gap-32{
     gap: 32px;
+}
+
+.uD0-flex-gap-42{
+    gap: 42px;
 }
 
 .uD0-inline-block{

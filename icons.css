@@ -345,4 +345,39 @@
     height: 12px;
 }
 
+.iD0-double-d-arrow{
+    background-image: url('assets/Mask\ Group\ 547.svg');
+    width: 16px;
+    height: 16px;
+}
+
+.iD0-write-review{
+    background-image: url('assets/Mask\ Group\ 559.svg');
+    width: 16px;
+    height: 16px;
+}
+
+.iD0-star-8{
+    background-image: url('assets/Polygon\ 33.svg');
+    width: 8px;
+    height: 8px;
+}
+
+.iD0-star-12{
+    background-image: url('assets/icons8_star.svg');
+    width: 12px;
+    height: 12px;
+}
+
+.iD0-verified-8{
+    background-image: url('assets/Mask\ Group\ 570.svg');
+    width: 8px;
+    height: 8px;
+}
+
+.iD0-email{
+    background-image: url("assets/Mask\ Group\ 350.svg");
+    width: 24px;
+    height: 24px;
+}
 

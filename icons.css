@@ -381,3 +381,68 @@
     height: 24px;
 }
 
+.iD0-block{
+    background-image: url("assets/Mask\ Group\ 343.png");
+    width: 24px;
+    height: 24px;
+}
+
+.iD0-phone-gray-24{
+    background-image: url("assets/Mask\ Group\ 342.png");
+    width: 24px;
+    height: 24px;
+}
+
+.iD0-gd-phone{
+    background-image: url("assets/Mask\ Group\ 344.png");
+    width: 24px;
+    height: 24px;
+}
+
+.iD0-email-gray{
+    background-image: url("assets/Mask\ Group\ 345.png");
+    width: 24px;
+    height: 24px;
+}
+
+.iD0-apple{
+    background-image: url("assets/Mask\ Group\ 331.svg");
+    width: 32px;
+    height: 32px;
+}
+
+.iD0-playstore{
+    background-image: url("assets/icons8_playstore.svg");
+    width: 32px;
+    height: 32px;
+}
+
+.iD0-fb-gray{
+    background-image: url("assets/Mask\ Group\ 346.svg");
+    width: 16px;
+    height: 16px;
+}
+
+.iD0-twitter-gray{
+    background-image: url("assets/Mask\ Group\ 347.svg");
+    width: 16px;
+    height: 16px;
+}
+
+.iD0-utube-gray{
+    background-image: url("assets/Mask\ Group\ 348.svg");
+    width: 16px;
+    height: 16px;
+}
+
+.iD0-insta-gray{
+    background-image: url("assets/Mask\ Group\ 349.svg");
+    width: 16px;
+    height: 16px;
+}
+
+.iD0-flag{
+    background-image: url("assets/Mask\ Group\ 338.svg");
+    width: 24px;
+    height: 24px;
+}

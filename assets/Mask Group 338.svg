@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_18152" data-name="Rectangle 18152" width="24" height="24" transform="translate(1277 29)" fill="#1b2d49" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_338" data-name="Mask Group 338" transform="translate(-1277 -29)" clip-path="url(#clip-path)">
+    <g id="icons8_united_arab_emirates" transform="translate(1275.909 27.908)">
+      <path id="Path_41" data-name="Path 41" d="M1.091,15.818h24v5.455h-24Z" fill="#424242"/>
+      <path id="Path_42" data-name="Path 42" d="M1.091,10.364h24v5.455h-24Z" fill="#eceff1"/>
+      <path id="Path_43" data-name="Path 43" d="M1.091,4.909h24v5.455h-24Z" fill="#388e3c"/>
+      <path id="Path_44" data-name="Path 44" d="M1.091,4.909H6.545V21.273H1.091Z" fill="#ff3d00"/>
+      <path id="Path_45" data-name="Path 45" d="M1.091,4.909H6.545V21.273H1.091Z" fill="#f44336"/>
+    </g>
+  </g>
+</svg>

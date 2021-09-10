@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_18339" data-name="Rectangle 18339" width="16" height="16" transform="translate(1130 944)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_349" data-name="Mask Group 349" transform="translate(-1130 -944)" clip-path="url(#clip-path)">
+    <path id="icons8_Instagram" d="M8.444,4A4.4,4.4,0,0,0,4,8.444v7.111A4.4,4.4,0,0,0,8.444,20h7.111A4.4,4.4,0,0,0,20,15.556V8.444A4.4,4.4,0,0,0,15.556,4Zm0,1.778h7.111a2.619,2.619,0,0,1,2.667,2.667v7.111a2.619,2.619,0,0,1-2.667,2.667H8.444a2.619,2.619,0,0,1-2.667-2.667V8.444A2.619,2.619,0,0,1,8.444,5.778Zm8,.889a.84.84,0,0,0-.889.889.889.889,0,0,0,1.778,0A.84.84,0,0,0,16.444,6.667ZM12,7.556A4.444,4.444,0,1,0,16.444,12,4.4,4.4,0,0,0,12,7.556Zm0,1.778A2.667,2.667,0,1,1,9.333,12,2.619,2.619,0,0,1,12,9.333Z" transform="translate(1126 940)" fill="#fff"/>
+  </g>
+</svg>
